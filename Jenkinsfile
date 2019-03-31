@@ -6,7 +6,7 @@ node {
 
     def image = 'jugendpresse/docker-antragsgruen'
 
-    def gitrepository = 'https://github.com/CatoTH/antragsgruen.git'
+    def gitrepository = 'https://github.com/lag-np-by/antragsgruen'
     def gitbranch     = 'master'
     def begin_commit  = 'eaf83c00'
 
