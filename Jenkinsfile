@@ -2,9 +2,9 @@ node {
 
     def built_image
 
-    def baseimage = 'jugendpresse/apache:php-7.2'
+    def baseimage = 'dockerdockdockdockdocker/apache:php-7.2'
 
-    def image = 'jugendpresse/docker-antragsgruen'
+    def image = 'dockerdockdockdockdocker/docker-antragsgruen'
 
     def gitrepository = 'https://github.com/lag-np-by/antragsgruen'
     def gitbranch     = 'master'
