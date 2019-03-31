@@ -2,7 +2,7 @@ node {
 
     def built_image
 
-    def baseimage = 'dockerdockdockdockdocker/apache:php-7.2'
+    def baseimage = 'jugendpresse/apache:php-7.2'
 
     def image = 'dockerdockdockdockdocker/docker-antragsgruen'
 
